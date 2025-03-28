@@ -8,3 +8,5 @@ return "I've seen enough, Twerk"
 
 if __name__ == "__main__":
 app.run()
+
+requirements.txt
